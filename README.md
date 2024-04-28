@@ -1,1 +1,1 @@
-# get-to-know-cypress
+# get-to-know-cypress with POM
